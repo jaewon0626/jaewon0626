@@ -14,7 +14,10 @@
 <br/>
 </div>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        
+        
+# 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
           </div> 
     <div style="text-align: left;">  </div> 
