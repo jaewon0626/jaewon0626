@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/Verilog-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/SystemVerilog-F24E1E?style=for-the-badge&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/SystemVerilog-F24E1E?style=for-the-badge&logo=systemverilog&logoColor=white">
         <img src=https://img.shields.io/badge/SystemVerilog-555555?style=for-the-badge&logo=systemverilog&logoColor=white">
         <br/>
     </div>
