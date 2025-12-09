@@ -26,6 +26,7 @@
           </div>  <br> 
     <div style="text-align: center;">  </div> 
     </div>
+    
 ### 🧠 주요 프로젝트
 
 </div>
