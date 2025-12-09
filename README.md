@@ -12,8 +12,8 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Verilog-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/SystemVerilog-3776AB?style=flat&logo=Python&logoColor=white">
+        <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Verilog-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/SystemVerilog-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;">
