@@ -30,7 +30,7 @@
 <div align="center">
 
 
-# 🧠 주요 프로젝트
+# 🧠 Main Project
 
 </div>
 
