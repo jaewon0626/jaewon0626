@@ -3,7 +3,7 @@
     </div>
 
 # 🚀 Tech Stacks
-
+<div align="center">
 | What I've Used 🖥️ | Tools 🔨 |
 |:------:|:---:|
 | <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white"> |
