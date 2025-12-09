@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 하드웨어 개발자 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hardware engineer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ㅇㅇㅇㅇㅇ </div> 
     </div>
     <div style="text-align: left;">
