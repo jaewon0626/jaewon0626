@@ -20,7 +20,7 @@
         
 # 🧑‍💻 Contact me </h2> <br>
 
-<div style="text-align: left;"> <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
+<div style="text-align: left;"> <div style="text-align: left;"> <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a> <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
           </div> 
     <div style="text-align: left;">  </div> 
     </div>
