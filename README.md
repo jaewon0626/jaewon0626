@@ -10,8 +10,12 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/Verilog-000080?style=for-the-badge&logo=Verilog&logoColor=white">
         <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white">
