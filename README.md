@@ -46,7 +46,8 @@ OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 �
     PC와 basys3간의 UART 통신을 통해 스톱워치/시계를 제어하는 프로젝트입니다. 통신 과정에서 burst data에 대처하기 위해 fifo를 사용합니다.
     -->
     
-- 👤 **[퍼스널 컬러 진단 프로그램](https://github.com/Heoboss/Project-Face-Blur)**:  
+- <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e9f9aa68-8d86-4089-8262-d8b6abf95a9a" />
+ **[퍼스널 컬러 진단 프로그램](https://github.com/Heoboss/Project-Face-Blur)**:  
     AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단한 뒤, Selenium으로 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및 쇼핑 어시스턴스 프로젝트
 
   <div align="center">
