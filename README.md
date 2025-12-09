@@ -15,8 +15,6 @@
         <br>
         <img src="https://img.shields.io/badge/Verilog-000080?style=for-the-badge&logo=Verilog&logoColor=white">
         <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white">
-        <img src="https://img.shields.io/badge/Verilog-61DAFB?style=for-the-badge&logo=Verilog&logoColor=white">
-        <img src="https://img.shields.io/badge/SystemVerilog-F24E1E?style=for-the-badge&logo=systemverilog&logoColor=white">
         <br/>
     </div>
     </div>
