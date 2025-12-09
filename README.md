@@ -31,7 +31,9 @@
 # 🧠 주요 프로젝트
 
 </div>
+
 <!--
+
 - 🏎️ **[FPGA DRIFT - 4인 VGA 카메라 기반 멀티플레이어 레이싱 게임](https://github.com/Heoboss/Project-VGA-Camera)**:  
 OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 게임입니다. Color Tracking 기반 카트 조종, 아이템 시스템(ICE/THUNDER/DEVIL), Python 서버를 통한 TCP/UART 통신으로 4대의 FPGA를 연동하였습니다. Python 서버와 FPGA 보드 간의 통신은 UART Protocol을 사용합니다.
 - 📡 **[SoC AXI4-Lite I2C Master/Slave 설계 및 UVM 검증](https://github.com/Heoboss/Project-SoC-SPI-I2C)**:  
@@ -44,11 +46,12 @@ OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 �
     FPGA(Basys3)를 이용해 시계, 스톱워치, 타이머 기능과 더불어 온/습도(DHT11), 거리(초음파) 센서를 통합 제어하고, UART 통신으로 PC와 연동한 IoT 시스템 설계 프로젝트입니다.
 - 🛜 **[UART+FIFO + 스톱워치/시계 프로젝트](https://github.com/Heoboss/Project-UART-Stopwatch)**:  
     PC와 basys3간의 UART 통신을 통해 스톱워치/시계를 제어하는 프로젝트입니다. 통신 과정에서 burst data에 대처하기 위해 fifo를 사용합니다.
-    -->
     
-- <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e9f9aa68-8d86-4089-8262-d8b6abf95a9a" />
- **[퍼스널 컬러 진단 프로그램](https://github.com/Heoboss/Project-Face-Blur)**:  
-    AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단한 뒤, Selenium으로 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및 쇼핑 어시스턴스 프로젝트
+-->
+    
+
+ - **🌈 [퍼스널 컬러 진단 프로그램](https://github.com/Heoboss/Project-Face-Blur)**:  
+    AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단한 뒤, Selenium으로 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및     쇼핑 어시스턴스 프로젝트
 
   <div align="center">
 
