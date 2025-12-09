@@ -1,28 +1,17 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hardware Engineer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ㅇㅇㅇㅇㅇ </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-        <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Verilog-000080?style=for-the-badge&logo=Verilog&logoColor=white">
-        <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white">
-        <br/>
-    </div>
-    </div>
-    <div style="text-align: left;">
+
+# 🚀 Tech Stacks
+
+| What I've Used 🖥️ | Tools 🔨 |
+|:------:|:---:|
+| <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/JETSON%20NANO-6DB33F?style=for-the-badge&logo=nvidia&logoColor=white"> | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white"> |
+| <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white"> | <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=black"> |
+<br/>
+</div>
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
           </div> 
