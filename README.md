@@ -27,8 +27,10 @@
           </div> <br> 
     <div style="text-align: center;">  </div> 
     </div>
+<div align="center">
 
-### 🧠 주요 프로젝트
+
+# 🧠 주요 프로젝트
 
 </div>
 
