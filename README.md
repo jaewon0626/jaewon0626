@@ -26,8 +26,34 @@
     </div>
     <div style="text-align: left;"> 
         <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jaewon0626&bg_color=180,27aab4,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaewon0626&layout=compact&bg_color=180,27aab4,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+
+# 🧠 주요 프로젝트
+
+</div>
+
+- 🏎️ **[FPGA DRIFT - 4인 VGA 카메라 기반 멀티플레이어 레이싱 게임](https://github.com/Heoboss/Project-VGA-Camera)**:  
+OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 게임입니다. Color Tracking 기반 카트 조종, 아이템 시스템(ICE/THUNDER/DEVIL), Python 서버를 통한 TCP/UART 통신으로 4대의 FPGA를 연동하였습니다. Python 서버와 FPGA 보드 간의 통신은 UART Protocol을 사용합니다.
+- 📡 **[SoC AXI4-Lite I2C Master/Slave 설계 및 UVM 검증](https://github.com/Heoboss/Project-SoC-SPI-I2C)**:  
+    AXI4-Lite 인터페이스 기반 I2C Master/Slave IP를 설계하고 UVM 방법론을 적용하여 검증한 프로젝트입니다. MicroBlaze CPU와 연동하여 두 대의 FPGA 간 점프 게임 어플리케이션을 구현했습니다.
+- 🚌 **[RISC-V Multi-Cycle CPU & AMBA APB UART 설계](https://github.com/Heoboss/Project-RISC-V-AMBA-APB-Peripheral)**:  
+    RISC-V Multi-Cycle CPU 코어를 구현하고, 표준 버스 프로토콜인 AMBA APB를 통해 UART Peripheral을 연동한 SoC 설계 프로젝트입니다.
+- 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/Heoboss/Project-RISC-V-RV32I)**:  
+    SystemVerilog를 사용하여 RISC-V의 RV32I ISA를 지원하는 Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 모든 타입의 명령어를 구현하고, C언어 버블 정렬 프로그램을 컴파일한 어셈블리 코드를 실행하여 기능의 정확성을 검증했습니다.
+- ⌚ **[Digital CLock + 온습도/초음파 센서 프로젝트](https://github.com/Heoboss/Project-Digital-Clock-Sensor)**:  
+    FPGA(Basys3)를 이용해 시계, 스톱워치, 타이머 기능과 더불어 온/습도(DHT11), 거리(초음파) 센서를 통합 제어하고, UART 통신으로 PC와 연동한 IoT 시스템 설계 프로젝트입니다.
+- 🛜 **[UART+FIFO + 스톱워치/시계 프로젝트](https://github.com/Heoboss/Project-UART-Stopwatch)**:  
+    PC와 basys3간의 UART 통신을 통해 스톱워치/시계를 제어하는 프로젝트입니다. 통신 과정에서 burst data에 대처하기 위해 fifo를 사용합니다.
+- 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
+    취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
+- 🤖 **[자율주행 도서 로봇 프로젝트](https://github.com/Heoboss/Ros-Navigation-Project)**:  
+    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작**  
+  라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
+    도서를 뽑아 사용자에게 전달하는 사회적 약자를 위한 프로젝트입니다.
+- 👤 **[AI 얼굴 인식 블러 처리 프로젝트](https://github.com/Heoboss/Project-Face-Blur)**:  
+    초상권 보호를 위해 Custom AI 모델을 훈련시킨 얼굴을 제외한 사람들의 얼굴을 블러 처리하는 프로젝트입니다.
+
+  <div align="center">
+
+
+
