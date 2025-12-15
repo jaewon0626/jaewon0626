@@ -40,7 +40,7 @@
     AXI4-Lite 인터페이스 기반 I2C Master/Slave IP를 설계하고 UVM 방법론을 적용하여 검증한 프로젝트입니다. MicroBlaze CPU와 연동하여 두 대의 FPGA 간 점프 게임 어플리케이션을 구현했습니다.
 - 🚌 **[RISC-V Multi-Cycle CPU & AMBA APB UART 설계](https://github.com/Heoboss/Project-RISC-V-AMBA-APB-Peripheral)**:  
     RISC-V Multi-Cycle CPU 코어를 구현하고, 표준 버스 프로토콜인 AMBA APB를 통해 UART Peripheral을 연동한 SoC 설계 프로젝트입니다.
-- 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/Heoboss/Project-RISC-V-RV32I)**:  
+- 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계]((https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:  
     SystemVerilog를 사용하여 RISC-V의 RV32I ISA를 지원하는 Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 모든 타입의 명령어를 구현하고, C언어 버블 정렬 프로그램을 컴파일한 어셈블리 코드를 실행하여 기능의 정확성을 검증했습니다.
 - ⌚ **[Digital CLock + 온습도/초음파 센서 프로젝트](https://github.com/Heoboss/Project-Digital-Clock-Sensor)**:  
     FPGA(Basys3)를 이용해 시계, 스톱워치, 타이머 기능과 더불어 온/습도(DHT11), 거리(초음파) 센서를 통합 제어하고, UART 통신으로 PC와 연동한 IoT 시스템 설계 프로젝트입니다.
@@ -55,6 +55,9 @@
   
 - ⌚ **[초음파센서 + 온습도센터 + 디지털 시계](https://github.com/jaewon0626/Project_UART_FIFO_SENSOR_CLOCK)** :
       Verilog HDL을 사용하여 구현한 다기능 디지털 시계(Stopwatch, Watch, Timer) 및 환경 모니터링 시스템. FSM 설계를 통한 센서 제어(DHT11, HC-SR04)와 FIFO 기반의 UART 통신을 통합하여 하드웨어 제어 및 데이터 통신 프로젝트
+  
+- 🧠 **[RISC-V Single Cycle CPU 설계]((https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
+      SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Single Cycle CPU를 설계한 프로젝트
 
   <div align="center">
 
