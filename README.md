@@ -36,8 +36,6 @@
 
 <!--
 
-- 🏎️ **[FPGA DRIFT - 4인 VGA 카메라 기반 멀티플레이어 레이싱 게임](https://github.com/Heoboss/Project-VGA-Camera)**:  
-OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 게임입니다. Color Tracking 기반 카트 조종, 아이템 시스템(ICE/THUNDER/DEVIL), Python 서버를 통한 TCP/UART 통신으로 4대의 FPGA를 연동하였습니다. Python 서버와 FPGA 보드 간의 통신은 UART Protocol을 사용합니다.
 - 📡 **[SoC AXI4-Lite I2C Master/Slave 설계 및 UVM 검증](https://github.com/Heoboss/Project-SoC-SPI-I2C)**:  
     AXI4-Lite 인터페이스 기반 I2C Master/Slave IP를 설계하고 UVM 방법론을 적용하여 검증한 프로젝트입니다. MicroBlaze CPU와 연동하여 두 대의 FPGA 간 점프 게임 어플리케이션을 구현했습니다.
 - 🚌 **[RISC-V Multi-Cycle CPU & AMBA APB UART 설계](https://github.com/Heoboss/Project-RISC-V-AMBA-APB-Peripheral)**:  
@@ -52,8 +50,11 @@ OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 �
 -->
     
 
- - **🌈 [퍼스널 컬러 진단 프로그램](https://github.com/jaewon0626/Personal-Color-Test)** :  
-    AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단한 뒤, Selenium으로 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및     쇼핑 어시스턴스 프로젝트
+- **🌈 [퍼스널 컬러 진단 프로그램](https://github.com/jaewon0626/Personal-Color-Test)** :
+      AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단한 뒤, Selenium으로 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및 쇼핑 어시스턴스 프로젝트
+  
+- ⌚ **[초음파센서 + 온습도센터 + 디지털 시계](https://github.com/jaewon0626/Project_UART_FIFO_SENSOR_CLOCK)**:
+      Verilog HDL을 사용하여 구현한 다기능 디지털 시계(Stopwatch, Watch, Timer) 및 환경 모니터링 시스템. FSM 설계를 통한 센서 제어(DHT11, HC-SR04)와 FIFO 기반의 UART 통신을 통합하여 하드웨어 제어 및 데이터 통신 프로젝트
 
   <div align="center">
 
