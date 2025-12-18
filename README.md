@@ -58,7 +58,7 @@
 - 🧠 **[RISC-V Single Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Single Cycle CPU 설계 프로젝트
   
-- 🧠 **[RISC-V Multi Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Multi-Cycle-CPU)**:
+- 🧠 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RISC-V-32I-Multi-Cycle-CPU)**:
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Multi Cycle CPU 설계 프로젝트
   
   <div align="center">
