@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c25abba5-d6eb-42da-917b-e61850930ccc" /><div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
 
