@@ -16,14 +16,13 @@
 </div>
 <div align="center">
     
-         <!-- <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> -->
         
 # 🧑‍💻 Contact me </h2> 
 <br>
 
 </h2> <br> 
     <div style="text-align: center;"> <a href=mailto:leejaewon2201@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leejaewon2201@gmail.com"> </a>
-          <iframe src="https://jazzy-rat-997.notion.site/ebd//2c368acece6f80579cd1c8994242b59d" width="100%" height="600" frameborder="0" allowfullscreen /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
+          <a href=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2c368acece6f80579cd1c8994242b59d?source=copy_link"> </a>
           </div> <br> 
     <div style="text-align: center;">  </div> 
     </div>
