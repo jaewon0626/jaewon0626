@@ -50,7 +50,7 @@
     
 
 - **🌈 [퍼스널 컬러 진단 프로그램](https://github.com/jaewon0626/Personal-Color-Test)** :
-      AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단하여 Selenium을 통해 무신사에서 추천 상품까지 추천해주는 퍼스널 컬러 진단 및 쇼핑 어시스턴스 프로젝트
+      AWS Rekognition으로 얼굴을 감지하고, OpenCV로 피부 톤을 분석해 퍼스널 컬러를 진단하여 Selenium을 통해 무신사에서 추천 상품까지 볼 수 있는 퍼스널 컬러 진단 및 쇼핑 어시스턴스 프로젝트
   
 - ⌚ **[초음파센서 + 온습도센터 + 디지털 시계](https://github.com/jaewon0626/Project_UART_FIFO_SENSOR_CLOCK)** :
       Verilog HDL을 사용하여 구현한 다기능 디지털 시계(Stopwatch, Watch, Timer) 및 환경 모니터링 시스템. FSM 설계를 통한 센서 제어(DHT11, HC-SR04)와 FIFO 기반의 UART 통신을 통합하여 하드웨어 제어 및 데이터 통신 프로젝트
