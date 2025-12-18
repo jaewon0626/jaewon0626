@@ -55,7 +55,7 @@
 - ⌚ **[초음파센서 + 온습도센터 + 디지털 시계](https://github.com/jaewon0626/Project_UART_FIFO_SENSOR_CLOCK)** :
       Verilog HDL을 사용하여 구현한 다기능 디지털 시계(Stopwatch, Watch, Timer) 및 환경 모니터링 시스템. FSM 설계를 통한 센서 제어(DHT11, HC-SR04)와 FIFO 기반의 UART 통신을 통합하여 하드웨어 제어 및 데이터 통신 프로젝트
   
-- 🧠 **[RISC-V Single Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
+- 🖥️ **[RISC-V Single Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Single Cycle CPU 설계 프로젝트
   
 - 🔗 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RV32I-Multi-Cycle-CPU-AMBA-APB-Peripheral)**:
