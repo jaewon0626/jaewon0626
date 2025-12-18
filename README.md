@@ -59,7 +59,7 @@
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Single Cycle CPU 설계 프로젝트
   
 - 🔗 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RV32I-Multi-Cycle-CPU-AMBA-APB-Peripheral)**:
-      SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Multi Cycle CPU 설계 프로젝트
+      AMBA APB 인터페이스를 통해 CPU와 pheripheral들 간의 효율적인 데이터 송수신 제어 및 동작 검증 프로젝트
   
   <div align="center">
 
