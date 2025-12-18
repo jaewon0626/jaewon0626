@@ -1,4 +1,4 @@
-<div align= "center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c25abba5-d6eb-42da-917b-e61850930ccc" /><div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
 
@@ -58,7 +58,7 @@
 - 🧠 **[RISC-V Single Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Single Cycle CPU 설계 프로젝트
   
-- 🧠 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RISC-V-32I-Multi-Cycle-CPU)**:
+- 🔗 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RISC-V-32I-Multi-Cycle-CPU)**:
       SystemVerilog를 이용하여 R, I, S, B, U, J 32개의 ISA 명령어를 지원하는 RISC-V 32I Multi Cycle CPU 설계 프로젝트
   
   <div align="center">
