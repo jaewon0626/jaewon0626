@@ -55,7 +55,7 @@
 - ⌚ **[초음파센서 + 온습도센터 + 디지털 시계](https://github.com/jaewon0626/Project_UART_FIFO_SENSOR_CLOCK)** :
       Verilog HDL을 사용하여 구현한 다기능 디지털 시계(Stopwatch, Watch, Timer) 및 환경 모니터링 시스템. FSM 설계를 통한 센서 제어(DHT11, HC-SR04)와 FIFO 기반의 UART 통신을 통합하여 하드웨어 제어 및 데이터 통신 프로젝트
 
-- 🔎 **[SystemVerilog 기반 UART-FIFO 10000진 카운터 Verification]()** :
+- 🔎 **[SystemVerilog 기반 UART-FIFO 10000진 카운터 Verification](https://github.com/jaewon0626/UART-FIFO_10000_Counter_Verification)** :
       SystemVerilog 기반 UVM-Lite를 이용하여 UART, FIFO, Loopback 기능을 개별 검증 및 10000진 카운터의 정상적인 동작 검증 프로젝트
 
 - 🖥️ **[RISC-V Single Cycle CPU 설계](https://github.com/jaewon0626/RISC-V-32I-Single-Cycle-CPU)**:
