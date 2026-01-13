@@ -1,6 +1,9 @@
+</div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
-    </div align="center">
+</div>
+
+</div align="center">
     
 # 🚀 Tech Stacks
 
