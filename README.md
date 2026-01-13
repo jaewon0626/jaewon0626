@@ -11,8 +11,8 @@
 | Languages 🖥️ | Tools 🔨 |
 |:------:|:---:|
 | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white">| <img src="https://img.shields.io/badge/Vivado-D5FF8B?style=for-the-badge&logo=xilinx&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white">| <img src="https://img.shields.io/badge/Vivado-D5FF8B?style=for-the-badge&logo=xilinx&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white"> |
 <br/>
 </div>
 <div align="center">
