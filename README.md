@@ -48,7 +48,10 @@
 - 🔗 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RV32I-Multi-Cycle-CPU-AMBA-APB-Peripheral)**:
       AMBA APB 인터페이스를 통해 CPU와 pheripheral들 간의 효율적인 데이터 송수신 제어 및 동작 검증 프로젝트
 
-- 🔗 **[I2C를 이용한 직렬 통신 인터페이스 설계]()**:
+- ⚙️ **[I2C를 이용한 직렬 통신 인터페이스 설계]()**:
+      AXI
+
+- ⚙️ **[OV7670 센서를 이용한 VGA 덕헌트 게임 구현]()**:
       AXI
   
   <div align="center">
