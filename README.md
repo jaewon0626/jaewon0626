@@ -1,4 +1,4 @@
-<div align= "center">
+<img width="3722" height="422" alt="image" src="https://github.com/user-attachments/assets/c4da35bb-a408-41e6-9b92-fef1b41b9eb6" /><div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cccca,100:1c058f&height=180&text=Welcom%20to%20JaeWon's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
 
@@ -47,6 +47,9 @@
   
 - 🔗 **[RISC-V Multi Cycle CPU & APB Peripheral](https://github.com/jaewon0626/RV32I-Multi-Cycle-CPU-AMBA-APB-Peripheral)**:
       AMBA APB 인터페이스를 통해 CPU와 pheripheral들 간의 효율적인 데이터 송수신 제어 및 동작 검증 프로젝트
+
+- 🔗 **[I2C를 이용한 직렬 통신 인터페이스 설계]()**:
+      AXI
   
   <div align="center">
 
