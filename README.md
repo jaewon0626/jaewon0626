@@ -49,7 +49,7 @@
 - 🔗 **[APB Bus 기반의 RISC-V Multi-Cycle SoC 설계](https://github.com/jaewon0626/RV32I-Multi-Cycle-CPU-AMBA-APB-Peripheral)**:
       AMBA APB 인터페이스를 통해 CPU와 pheripheral들 간의 효율적인 데이터 송수신 제어 및 동작 검증 SoC 프로젝트
 
-- ⚙️ **[MicroBlaze SoC 및 AXI4-Lite 인터페이스 기반의 I2C 통신 IP 설계와 시스템 구현]()**:
+- ⚙️ **[MicroBlaze SoC 및 AXI4-Lite 인터페이스 기반의 I2C 통신 IP 설계와 시스템 구현](https://github.com/jaewon0626/SoC-AXI4-Lite-I2C-Master_Slave)**:
       MicroBlaze 프로세서와 직접 설계한 AXI 기반 I2C IP를 활용하여, 두 FPGA 보드 간의 통신을 통해 카운터를 원격 제어하는 SoC 시스템 구현 프로젝트
 
 - 🔫 **[OV7670 센서를 이용한 VGA 덕헌트 게임 구현]()**:
