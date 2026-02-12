@@ -53,7 +53,7 @@
       MicroBlaze 프로세서와 직접 설계한 AXI 기반 I2C IP를 활용하여, 두 FPGA 보드 간의 통신을 통해 카운터를 원격 제어하는 SoC 시스템 구현 프로젝트
 
 - 🔫 **[OV7670 센서를 이용한 VGA 덕헌트 게임 구현](https://github.com/jaewon0626/ov7670_duck_hunter_game)**:
-      ㅇㅇ
+      추억의 게임 'Duck Hunt'를 FPGA 하드웨어로 재구현. 단순한 버튼 조작이 아닌, OV7670 카메라 센서를 활용해 화면의 오리를 직접 조준하는 게임 구현
   
   <div align="center">
 
